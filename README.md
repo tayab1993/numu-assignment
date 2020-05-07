@@ -1,2 +1,1 @@
-# numu-assignment
-This for job test
+RUN npm install to install modules
